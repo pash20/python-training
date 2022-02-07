@@ -1,0 +1,76 @@
+Agenda Day 4
+- Recap
+- Some More ML Libraries
+         Pandas
+         Matplotlib
+         Scikitlearn (contains ML ALgos + useful utilities)
+- STEPS required to solve a ML use case
+----------------------------------------------------------------------------------------------
+What is ML?
+
+Data(data frame) + Prebuilt Algo-----> Model
+
+Pandas
+- Pandas is used for Data Manipulation
+- It has two data Structures
+      - Series (one column extracted from data frame is Series)
+      - Data Frame ( 2d)
+
+To control the randomness we use :
+  - seed function
+  - random_state (To be covered)
+
+Random function
+ 2 , 6 - 1st Run
+ 3, 5  - 2nd Run
+
+Statistics
+Centreness -> Mean, Median, Mode
+Spread -> Range, Quartile, InterQuartile, Variance, Standard deviation
+
+
+Mean -> 1, 4, 5,6 = 4
+Median-> 1, 3, 5, 7, 9, 11 = 6
+Mode (Most Frequent)-> 1,1,2,2,3,3,5,3,4,5,2,2,3 = 2
+
+Range -> Max - Min 
+Quartile --> Fisrt 25%, Second 50%, Third Quater 75% 
+Interquartile Range --> Third Quartile - First Quartile
+
+
+
+
+
+Pandas 
+ - DF
+ - Series
+
+seed 
+
+How to create a df?
+
+df['W']
+df.loc['A']
+df.iloc[2]
+
+
+ 8, 9  - 3rd Run
+
+--------------------------------
+use,  seed(101) 
+2 , 6 - 1st Run
+ 2,6   - 2nd Run
+ 2,6  - 3rd Run
+ 2,6
+2,6
+
+------------------------------------------------------------------------------------------
+STEPS required to solve a ML use case
+STEP 1:  Understand Business Problem and find out "Target Column" in the data
+
+  Y --> Target Column / Output Column/ Labelled Data/ Dependent   Variable
+  X (X1, X2, X3, Xn) --> Predictors/ Features/Attributes/Independent   Variable
+
+
+
+

@@ -1,0 +1,65 @@
+Agenda Day 3:
+- Quick Recap
+- Remaining Basic Python Stuff
+- Python - ML/DS Libraries
+          - Numpy
+          - Pandas
+          - Matplotlib
+          - Scikitlearn
+-------------------------------------------
+Remaining Basic Python Stuff
+ 1. OOPS 
+- Object have
+      - attribute (variables)
+      - behaviour (function)
+
+Example
+  An object of Dog
+    -  attribute (color, weight)
+    -  behaviour  (bark())
+
+WHat is a Class?
+Objects are created from class. Class is like a template/defination which
+tells what kind of object your are creating.
+
+
+We create object from a class
+
+ob1 = Employee()
+ob1 = Employee()
+
+2. Exception Handling
+3. Regular Expression (search
+
+-----------------------------------------------------------------------------
+DS/ML libraries in Python
+1. Numpy 
+     - is a n-dim array 
+         1d -> Vector
+         2d -> Matrix
+         3d -> 3 d array
+ - used for maths related operation
+
+   How to create a numpy array
+- We create it from a list np.array(my_list)
+
+In-built Numpy Functions
+arange(), linspace(), randn(), rand(), randInt(), reshape(), zeros(), ones()
+
+In-built Numpy Attributes
+__version__
+
+Selection of elements in Numpy
+
+Statistics
+- Range   (Min, Max)
+- Standard Deviation (how much data is away from center/spread)
+- Variance (how much data is away from center/spread)
+
+SD is the square root of Variance
+
+
+
+
+
+
